@@ -2,7 +2,8 @@
 This code contains EBF-PINN method to solve Laplace equations. It is based on tensorflow package.
 # Prerequisite
 The code needs
-tensorflow
+
+**tensorflow**
 
 **numpy**
 
